@@ -1,6 +1,8 @@
 # pbb_crack
 PBB视频解密
 
+**目前已不支持**
+
 # 下载
 - [点我下载最新提取key软件](https://github.com/deadash/pbb_crack/releases/tag/%E6%8F%90%E5%8F%96%E5%B7%A5%E5%85%B7)
 - [点我下载解密软件(需要KEY)](https://github.com/deadash/pbb_crack/releases/tag/v0.2b)
